@@ -15,9 +15,9 @@ Its mean you need ~61 days for get 100 Coins, but if you lucker you can win at a
 a) create folder GPU0 for first GPU, GPU1 for second GPU, GPU2 for 3-th, etc...
 b) copy all the miner file to each folder
 с) open N-terminals at each folder ( each terminal has a path inside its folder, like"
-test@test-Default-string:~/Desktop/GPU0$
-test@test-Default-string:~/Desktop/GPU1$
-test@test-Default-string:~/Desktop/GPU2$
+~/Desktop/GPU0$
+~/Desktop/GPU1$
+~/Desktop/GPU2$
 etc..
 
 d) 
