@@ -1,5 +1,4 @@
-WECLOME TO TONCOIN_MINER!  
-Fastest Solo Miner Ever!
+Fastest solo miner on GPU devices
 
 1) Run in Ubuntu terminal:
 ./go YOUR_WALLET
